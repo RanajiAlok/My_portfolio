@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "HCL TECHNOLOGIES LTD.",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked with Lending Page", "Implementation of features and/or bug-fixing and delivering solutions adhering to coding and quality guidelines","Identification and implementation of (unit/integration) tests to ensure the solution addresses customer requirements and does not cause impact to the installed base","Ensuring integration and submission of solution into software configuration management system, within committed delivery timelines","Efficiently managed HTTP headers in a case-insensitive manner, leveraging the capabilities of the jersey version to ensure seamless compatibility" ],
+    "imageSrc": "history/hcl.jpg"
+  }
+]

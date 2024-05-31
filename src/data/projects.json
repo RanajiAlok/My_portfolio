@@ -1,0 +1,17 @@
+[
+  {
+    "title": "HearLit",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a ReacJs powered web app for seamless podcast discovery,upload and listening.",
+    "skills": ["React", "Django", "MongoDB","HTML", "CSS","JavaScript"],
+    "demo": "https://hear-lit-podcast-web-app-fronted-react.vercel.app/",
+    "source": "https://github.com/RanajiAlok/Hearlit_podcast_project"
+  },
+  {
+    "title": "Netflix Movie Recommendtion System",
+    "imageSrc": "projects/project.png",
+    "description": "This project aims at building model to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.",
+    "skills": ["Python", "Machine Learning", "HTML", "CSS","Flask"],
+    "source": "https://github.com/RanajiAlok/Netflix_movies-recommendation"
+  }
+]
