@@ -12,8 +12,14 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
+          <img src={getImageUrl("contact/cv.png")} alt="Resume" />
+          <a href="https://drive.google.com/file/d/10O-jx30SVCmGZTKGy1nChgje4nDjHyKc/view?usp=sharing">
+            My Resume
+          </a>
+        </li>
+        <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:aloksingh4975@gmail.com">aloksingh4975.gmal.com</a>
+          <a href="mailto:aloksingh4975@gmail.com">aloksingh4975.gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
