@@ -13,5 +13,13 @@
     "description": "This project aims at building model to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.",
     "skills": ["Python", "Machine Learning", "HTML", "CSS","Flask"],
     "source": "https://github.com/RanajiAlok/Netflix_movies-recommendation"
+  },
+  {
+    "title": "Siam-Dtu Website",
+    "imageSrc": "projects/project.png",
+    "description": "This .",
+    "skills": ["React", "Next.js", "Sass", "Next.js API routes","Server-side rendering","Node.js","Next Gallary"],
+    "Demo": "https://siamdtu.vercel.app/",
+    "source": "https://github.com/RanajiAlok/Siam_Dtu"
   }
 ]
