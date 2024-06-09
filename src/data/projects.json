@@ -17,7 +17,7 @@
   {
     "title": "Siam-Dtu Website",
     "imageSrc": "projects/project.png",
-    "description": "Developed and deployed a responsive website for the Siam_Dtu society, a student organization at Delhi Technological University..",
+    "description": "Developed and deployed a responsive website for the Siam_Dtu society, a student organization at Delhi Technological University.",
     "skills": ["React", "Next.js", "Sass", "Next.js API routes","Server-side rendering","Node.js","Next Gallary"],
     "Demo": "https://siamdtu.vercel.app/",
     "source": "https://github.com/RanajiAlok/Siam_Dtu"
